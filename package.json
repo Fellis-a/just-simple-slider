@@ -1,0 +1,24 @@
+{
+  "name": "simple-slider",
+  "version": "1.0.0",
+  "description": "A simple JavaScript slider package",
+  "main": "slider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fellis-a/simple-slider.git"
+  },
+  "keywords": [
+    "slider",
+    "javascript",
+    "package"
+  ],
+  "author": "Fellisa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fellis-a/simple-slider/issues"
+  },
+  "homepage": "https://github.com/Fellis-a/simple-slider#readme"
+}
