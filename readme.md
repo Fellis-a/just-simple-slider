@@ -10,11 +10,15 @@ Simple Slider is a lightweight JavaScript slider package with a minimalist desig
 - **Next/Previous Buttons**: Navigate between slides using intuitive next and previous buttons.
 - **Slide Indicators**: Display indicators for each slide, allowing users to quickly jump to a specific slide.
 
+## Demo
+
+Demo version of slider on CodePan: [link](https://codepen.io/Fellis-a/pen/poBZMKb)
+
 ## Installation
 
 You can install Simple Slider via npm:
 
-npm install simple-slider
+npm install just-simple-slider
 
 
 ## Usage
@@ -23,8 +27,8 @@ To use Simple Slider in your project, include the necessary CSS and JavaScript f
 
 ```
 html
-<link rel="stylesheet" href="path/to/simple-slider/simple-slider.css">
-<script src="path/to/simple-slider/simple-slider.js"></script>
+<link rel="stylesheet" href="path/to/just-simple-slider/just-simple-slider.css">
+<script src="path/to/just-simple-slider/just-simple-slider.js"></script>
 ```
 
 Then, add the slider HTML structure to your page, make sure to write right paths to your pictures:
